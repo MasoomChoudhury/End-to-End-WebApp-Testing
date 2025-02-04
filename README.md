@@ -101,7 +101,3 @@ This is just a starting point, and more test scenarios should be added to cover 
 - **Improve reporting:** Explore and integrate Allure Report for more advanced and visually appealing test reports.
 - **Flake mitigation:** Implement retry mechanisms and explicit waits to make tests more flake-resistant.
 - **Test coverage:** Use `pytest-cov` to measure test coverage and ensure 95% coverage for critical user workflows.
-
-## License
-
-[Optional: Add license information here, e.g., MIT License]
